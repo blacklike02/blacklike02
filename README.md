@@ -1,69 +1,89 @@
-# Hey there! 👋
+# Hi there, I'm Duca Radu 👋
 
-I'm a **Full Stack Developer** who loves building things that work beautifully and feel great to use. When I'm not coding, you'll find me exploring new tech or grabbing coffee.
+## Full Stack Developer | Problem Solver | Coffee Enthusiast
 
----
-
-## What I Do
-
-I build web applications from end to end - crafting smooth, responsive frontends and solid, reliable backends. I'm currently focused on React and TypeScript on the frontend, with C# and ASP.NET handling the heavy lifting on the backend.
-
-My sweet spot is taking complex problems and turning them into clean, intuitive solutions. I also have a thing for animations - GSAP is my go-to for making interfaces feel alive.
+I'm a passionate full-stack developer who loves building complete applications from concept to deployment. I specialize in creating beautiful frontends with smooth animations and robust backends that scale. I thrive on taking ownership of projects and delivering quality code that works.
 
 ---
 
-## My Toolkit
+### About Me
+
+- Currently working on full-stack applications with modern tech stacks
+- Detail-oriented, self-driven developer
+- Specialty: End-to-end web development from React to ASP.NET
+- Always learning new technologies and best practices
+- I take ownership and build complete solutions independently
+- Passionate about creating smooth animations and seamless experiences
+
+---
+
+### Let's Collaborate
+
+I'm interested in:
+- Challenging full-stack projects with complete ownership
+- Open-source contributions that make a difference
+- Remote opportunities with innovative teams
+- Projects where I can make significant impact
+
+---
+
+### Tech Stack
+
+**Languages:**
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![C%23](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 **Frontend:**
-- React & TypeScript (my daily drivers)
-- Vanilla JavaScript, HTML5, CSS3
-- GSAP for animations
-- Responsive design that actually works
 
-**Backend:**
-- C# & ASP.NET / ASP.NET Core
-- MySQL for databases
-- RESTful APIs
-- Server logic that scales
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-%88CE02.svg?style=for-the-badge&logo=greensock&logoColor=white)
 
-**Currently exploring:** Golang (still learning, but excited about it!)
+**Backend & Frameworks:**
 
-**Dev environment:** VS Code, Git, npm, and way too much coffee ☕
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dot-net&logoColor=white)
+**Databases:**
 
----
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-## Why Work With Me?
+**Dev Tools:**
 
-✨ **I actually care about code quality** - not just shipping features fast  
-🤝 **Easy to work with** - great at communication and collaboration  
-🚀 **Curious and adaptable** - I learn quickly and enjoy challenges  
-📦 **Full ownership** - I see projects through from concept to deployment  
-🎯 **Attention to detail** - both in code and user experience  
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## A Bit About My Approach
+## GitHub Stats
 
-I believe in writing code that's not just functional, but maintainable. Clean code isn't just a buzzword to me—it's how I work. I spend time understanding requirements, thinking through architecture, and building things the right way.
+<div align="center">
 
-I'm also a big believer in continuous improvement. Every project teaches me something new, and I actively seek out better ways to solve problems.
+![](https://github-readme-stats.vercel.app/api?username=blacklike02&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)
 
----
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=blacklike02&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## Let's Connect
-
-If you've got an interesting project, want to collaborate, or just want to chat tech—I'm here for it.
-
-- 💼 Open to opportunities
-- 🤝 Happy to chat about projects
-- 📧 Reach out anytime
+</div>
 
 ---
 
-## More About My Work
+## Featured Work
 
-Check out my repositories to see what I've been working on. Each project tells a story about problem-solving and building quality software.
+Check out my repositories to see what I've been building. Each project demonstrates my ability to create complete, production-ready applications.
 
 ---
 
-*Making the web a better place, one commit at a time.* 🚀
+<div align="center">
+
+### Let's Connect
+
+Reach out for collaborations or a friendly chat about tech!
+
+**"Making the web better, one commit at a time"** 🚀
+
+</div>
