@@ -1,6 +1,6 @@
 # Hi there, I'm Duca Radu 👋
 
-## Full Stack Developer | Coffee Enthusiast
+## Full Stack Developer 
 
 I'm a passionate full-stack developer who loves building complete applications from concept to deployment. I specialize in creating beautiful, animated frontends with smooth interactions and robust backends that scale. I thrive on taking ownership of projects and delivering quality code.
 
@@ -83,13 +83,3 @@ I'm interested in:
 Check out my repositories to see what I've been building. Each project demonstrates my ability to create complete, production-ready applications with engaging user experiences.
 
 ---
-
-<div align="center">
-
-### Let's Connect
-
-Reach out for collaborations or a friendly chat about tech!
-
-**"Making the web better, one commit at a time"** 🚀
-
-</div>
